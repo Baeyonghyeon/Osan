@@ -8,13 +8,6 @@
    ![Osan](https://user-images.githubusercontent.com/77232856/148517389-c57fd463-afd4-43ad-8379-05f9267947d0.png)   
 
 ## 사용된 라이브러리
-### Foundation   
-[Appcompat](https://developer.android.com/topic/libraries/support-library/packages#v7-appcompat) 
-
-### Architcture   
-[Lifecycles](https://developer.android.com/topic/libraries/architecture/lifecycle)   
-[ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) 
-
 ### UI   
 [LinearLayout](https://developer.android.com/reference/android/widget/LinearLayout)   
 [RelativeLayout](https://developer.android.com/reference/kotlin/android/widget/RelativeLayout)  
